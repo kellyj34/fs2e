@@ -26,6 +26,6 @@
     "primaryTokenAttribute": "wounds",
     "initiative": "1d6 + @speed",
 "url": "https://github.com/kellyj34/fs2e",
-  "manifest": "https://raw.githubusercontent.com/kellyj34/fs2e/main/fs2e/system.json?token=GHSAT0AAAAAACVDBQHTPYNSBGJGQUMQHVISZU37SWQ",
+  "manifest": "https://raw.githubusercontent.com/kellyj34/fs2e/main/fs2e/system.json",
   "download": "https://github.com/kellyj34/fs2e/archive/refs/heads/main.zip"
 }
